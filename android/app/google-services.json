@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601149515178",
+    "project_id": "healai-7b05e",
+    "storage_bucket": "healai-7b05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601149515178:android:2ff8e78151e1a7f7fdb7d3",
+        "android_client_info": {
+          "package_name": "com.example.healai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUaxGwL2q75LtonUCRQTnc7mrIsxdYk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
