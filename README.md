@@ -1,3 +1,3 @@
 # healai
 
-A new Flutter project.
+Frontend code of HealAI
